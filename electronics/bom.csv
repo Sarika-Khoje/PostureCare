@@ -1,0 +1,13 @@
+Item,Qty,Notes
+ESP32 DevKit (or ESP32-WROOM module),1,Main controller
+MPU6050 breakout (GY-521),1,Accelerometer + gyroscope
+Coin/pancake vibration motor,1,3V
+Active buzzer,1,3.3-5V
+NPN transistor (2N2222 / BC547),2,Motor and buzzer drivers
+1N4007 diode,1,Flyback across motor
+Resistors 1k,2,Transistor bases
+Push button,1,Calibration
+Li-ion cell 3.7V (1000-2000 mAh),1,Rechargeable battery
+TP4056 charger module with protection (USB-C),1,Charging and cell protection
+Adjustable elastic belt with velcro or buckle,1,Wearable band
+Enclosure (3D printed),1,See /cad
